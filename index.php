@@ -8,6 +8,8 @@
 		<h1>Funciona</h1>
 		<?php
 		
+		// comento
+		
 			echo "hola mundo <br>";
 		?>
 		<?php		
