@@ -9,8 +9,6 @@
 		<?php
 		
 		// comento
-		
-		// lo sigo modificando
 				
 		// toco master
 		// toco branch
