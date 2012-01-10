@@ -12,7 +12,7 @@
 		
 		// lo sigo modificando
 				
-		
+		// toco master
 			echo "hola mundo y adios mundo<br>";
 			$a = 5;
 		?>
