@@ -12,6 +12,8 @@
 		// y ahora toco el branch
 		
 			echo "hola mundo <br>";
+			
+		// seguimos tocando cosas ...	
 		?>
 		<?php		
 		$i = 0;
