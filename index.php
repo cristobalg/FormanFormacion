@@ -9,8 +9,9 @@
 		<?php
 		
 		// comento
+				
 		
-			echo "hola mundo <br>";
+			echo "hola mundo y adios mundo<br>";
 		?>
 		<?php		
 		$i = 0;
