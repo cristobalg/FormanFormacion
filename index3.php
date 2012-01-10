@@ -8,6 +8,8 @@
 		<h1>Funciona</h1>
 		<?php
 		
+		// toco el master y no el branch en otro archivo
+		
 			echo "hola mundo <br>";
 		?>
 		<?php		
